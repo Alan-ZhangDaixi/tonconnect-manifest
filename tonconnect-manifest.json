@@ -2,7 +2,8 @@
   "url": "https://t.me/GoldenBlock_bot/game",
   "name": "GoldenBlock",
   "iconUrl": "https://x.com/GoldenGoatLyan/photo",
-  "bridge": "https://bridge.tonapi.io/bridge",
+  "bridgeUrl": "https://bridge.tonapi.io/bridge",
+  "jsBridgeKey": "tonkeeper",
   "termsOfUseUrl": "https://example.com/terms",
   "privacyPolicyUrl": "https://example.com/privacy"
 }
